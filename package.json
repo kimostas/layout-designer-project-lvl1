@@ -1,6 +1,6 @@
 {
   "name": "layout-designer-project-lvl1",
-  "type": "module",   
+  "type": "module",
   "version": "1.0.0",
   "description": "[![Actions Status](https://github.com/kimostas/layout-designer-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/kimostas/layout-designer-project-lvl1/actions)",
   "main": "index.js",
@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/kimostas/layout-designer-project-lvl1/issues"
   },
-  "homepage": "https://github.com/kimostas/layout-designer-project-lvl1#readme"
+  "homepage": "https://github.com/kimostas/layout-designer-project-lvl1#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.0"
+  }
 }
